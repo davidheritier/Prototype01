@@ -1,1 +1,1 @@
-# Prototype01
+# Variable font experiment 01
